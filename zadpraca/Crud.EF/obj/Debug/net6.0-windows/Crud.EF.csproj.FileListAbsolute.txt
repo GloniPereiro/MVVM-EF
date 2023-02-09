@@ -1,0 +1,17 @@
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.csproj.AssemblyReference.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.AssemblyInfoInputs.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.AssemblyInfo.cs
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.csproj.CoreCompileInputs.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\bin\Debug\net6.0-windows\Crud.EF.deps.json
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\bin\Debug\net6.0-windows\Crud.EF.runtimeconfig.json
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\bin\Debug\net6.0-windows\Crud.EF.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\bin\Debug\net6.0-windows\Crud.EF.pdb
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\bin\Debug\net6.0-windows\Crud.domain.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\bin\Debug\net6.0-windows\Crud.domain.pdb
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.csproj.CopyComplete
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\refint\Crud.EF.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.pdb
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\Crud.EF.genruntimeconfig.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.EF\obj\Debug\net6.0-windows\ref\Crud.EF.dll

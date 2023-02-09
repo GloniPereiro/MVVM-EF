@@ -1,0 +1,12 @@
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\bin\Debug\net6.0-windows\Crud.domain.deps.json
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\bin\Debug\net6.0-windows\Crud.domain.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\bin\Debug\net6.0-windows\Crud.domain.pdb
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.csproj.AssemblyReference.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.AssemblyInfoInputs.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.AssemblyInfo.cs
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.csproj.CoreCompileInputs.cache
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\refint\Crud.domain.dll
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\Crud.domain.pdb
+C:\Users\kgonc\OneDrive\Pulpit\test\zadpraca\Crud.domain\obj\Debug\net6.0-windows\ref\Crud.domain.dll
